@@ -1,0 +1,4 @@
+#define USING_DEVICE_MODULE
+#define USING_HEAP
+#define USART1_AS_CONSOLE
+#define DEBUG
